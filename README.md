@@ -1,3 +1,3 @@
-revizyon 1.0
+revizyon 1.0.1
 
-f
+[![Build Status](https://travis-ci.org/selenyel/bil481odev.svg?branch=master)](https://travis-ci.org/selenyel/bil481odev)
